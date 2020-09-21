@@ -1,0 +1,31 @@
+h1 {
+  font-family: "Lora", serif;
+  font-size: 300%;
+}
+
+html,
+body {
+  text-align: center;
+  font-family: "Lora", serif;
+}
+
+body {
+  background-image: url("https://images.designtrends.com/wp-content/uploads/2016/08/02170555/Musical-Instruments-Pattern.jpg?width=600");
+  background-size: 30%;
+  background-attachment: fixed;
+}
+
+img {
+  width: 60%;
+}
+
+video {
+  width: 60%;
+}
+
+main {
+  background: white;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding: 1%;
+}
